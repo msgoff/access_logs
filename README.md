@@ -6,7 +6,7 @@ whitelist ips that can ssh, drop everything else
 
 checksum files  
 
-take periodic  using top
+take periodic logs of running processes using top  
 
 send notifications
 
